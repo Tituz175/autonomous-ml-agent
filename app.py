@@ -1,7 +1,6 @@
 # from daytona import Daytona, DaytonaConfig
   
 # # Define the configuration
-# config = DaytonaConfig(api_key="dtn_319beb76f2a0d90a1b59115617e2018780eb4ccf773688c12acd3cee3b53102d")
 
 # # Initialize the Daytona client
 # daytona = Daytona(config)
